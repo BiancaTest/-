@@ -36,10 +36,12 @@
       "privateWorkflows": []
     },
     "processOptions": {
-      "ignoredFiles": []
+      "ignoredFiles": [],
+      "name": "ZZ Z"
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": false,
+    "name": "ZZ Z"
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
